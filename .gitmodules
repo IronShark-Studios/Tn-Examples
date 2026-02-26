@@ -1,0 +1,27 @@
+[submodule "nix-config"]
+	path = nix-config
+	url = https://github.com/EphraimSiegfried/nix-config
+[submodule "nix-wrapper-modules"]
+	path = nix-wrapper-modules
+	url = https://github.com/BirdeeHub/nix-wrapper-modules
+[submodule "sops-nix"]
+	path = sops-nix
+	url = https://github.com/Mic92/sops-nix
+[submodule "other-nix-config"]
+	path = other-nix-config
+	url = https://github.com/luftmensch-luftmensch/nix-config
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/fufexan/dotfiles
+[submodule "other-dotfiles"]
+	path = other-dotfiles
+	url = https://github.com/fufexan/dotfiles
+[submodule "mystero-nixos-config"]
+	path = mystero-nixos-config
+	url = https://github.com/Misterio77/nix-config
+[submodule "hlissner-dotfiles"]
+	path = hlissner-dotfiles
+	url = https://github.com/hlissner/dotfiles
+[submodule "microvm.nix"]
+	path = microvm.nix
+	url = https://github.com/microvm-nix/microvm.nix
